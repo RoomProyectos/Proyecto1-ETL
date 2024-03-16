@@ -64,3 +64,11 @@ Desafíos en cada parte del proceso.
 Resolución de cada desafío o problema.
 Un esquema de lo que fue el proyecto.
 Visualizaciones y resultados.
+
+
+###########################################################################################################################################
+
+
+Datos a extraer
+
+- 
