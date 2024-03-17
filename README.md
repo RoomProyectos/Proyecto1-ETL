@@ -26,9 +26,8 @@ Número de meneos (es la suma de los votos positivos y los votos anónimos)
 Número de clicks
 Votos positivos, anónimos y negativos
 Numero comentarios
-¿usuario?
-¿karma (al momento de la publicación)?
-¿Tipo de envío(fotos, vídeo, texto)?
+Usuario
+karma (al momento de la publicación)
 
 ## TRANSFORMACIÓN ##
 
@@ -52,6 +51,7 @@ Se utilizará nuevamente la API de Airtable para la descarga de los datos y real
 - Sobre el tiempo que le ha tomado en ser publicado
 - Sobre el númeo de comentarios
 - ¿Sobre la relación del karma con otras variables como comentarios o número de clicks?
+- Nubes de palabras
 
 ## Storytelling (Esta parte no será evaluada) ##
 
@@ -68,7 +68,14 @@ Visualizaciones y resultados.
 
 ###########################################################################
 
-
-Datos a extraer
-
-- 
+Objetivo general: Analizar las publicaciones de Menéame
+Ob.1. Averiguar el tipo de contenido publicado.
+Ob2. Analizar el nivel de interactividad de las publicaciones.
+Ob3. Conocer cuáles contenidos tienen más aceptación por parte del publico
+Cruzar datos:
+Medios con interactividad. Cuales medios tienen mejor aceptación (meneos)
+por parte de la comunidad de Menéame.
+Usuarios con interactividad. Cuáles usuarios tienen más credibilidad (karma)
+y publicación
+Sección con interactividad. Cuáles secciones tienen más interactividad por 
+parte de la comunidad. 
