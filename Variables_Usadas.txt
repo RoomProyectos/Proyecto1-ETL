@@ -1,0 +1,29 @@
+Variables usadas en el proyecto Meneame
+
+
+Luis :
+# Definidas en
+
+
+
+Gledson:
+# Definidas en
+
+
+
+Sara:
+# Definidas en
+
+
+
+Eva:
+# Definidas en
+
+
+
+
+Ruben:
+# Definidas en Seccion Filtrado:
+	hora_enviado
+	hora_publicado
+	media_karma
