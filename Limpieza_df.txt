@@ -7,6 +7,9 @@ Propuesta de Sara:
 	# Trimestre
 	# Día de la semana
 	# Franja horaria: mañana, mediodía, tarde, noche, madrugada?
+	# Municipio y provincia, donde haya esa información.
+
+- Si no tiene medio hay que poner como medio Meneame.
 
 - Crear columnas hora enviado y horas publicado
   y media karma
@@ -22,3 +25,14 @@ Propuesta de Sara:
 - Hacer la media del karma 
 	((Karma/(Positivos + Negativos))
   Los resultados inroducirlos en su columna.
+
+IDEAS VISUALIZACIONES
+- Noticias por mes, trimestre, día de la semana, franja horaria. Segregar por categorías.
+- Sucesos por provincia
+- Mapa de sucesos en Folium
+
+NUBE DE PALABRAS
+- Nube de palabras por medio, seleccionar medios principales? 
+
+IDEA DE ESTADISTICA
+Teorema de Bayes con noticias de diferentes categorías.
