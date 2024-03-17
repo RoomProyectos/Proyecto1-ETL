@@ -1,0 +1,16 @@
+- Limpiar NAN y años 24 y 22
+
+- Crear columnas hora enviado y horas publicado
+  y media karma
+  - Variables:
+	#horas_enviado
+	#hora_publicado
+	#media_karma
+
+- Separar horas de fechas en sus columnas
+
+- Definir Tipos datos (int, str,fechas)
+
+- Hacer la media del karma 
+	((Karma/(Positivos + Negativos))
+  Los resultados inroducirlos en su columna.
