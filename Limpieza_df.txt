@@ -1,5 +1,16 @@
 - Limpiar NAN y años 24 y 22
 
+Propuesta de Sara:
+- Añadir un if al principio del código para que solo coja las noticias del año 23, así no hay nada que limpiar. Pienso en cuando Dimitri tenga que reproducir el código queda más limpio así.
+- Crear columnas de cara a visualizaciones:
+	# Mes
+	# Trimestre
+	# Día de la semana
+	# Franja horaria: mañana, mediodía, tarde, noche, madrugada?
+	# Municipio y provincia, donde haya esa información.
+
+- Si no tiene medio hay que poner como medio Meneame.
+
 - Crear columnas hora enviado y horas publicado
   y media karma
   - Variables:
@@ -14,3 +25,14 @@
 - Hacer la media del karma 
 	((Karma/(Positivos + Negativos))
   Los resultados inroducirlos en su columna.
+
+IDEAS VISUALIZACIONES
+- Noticias por mes, trimestre, día de la semana, franja horaria. Segregar por categorías.
+- Sucesos por provincia
+- Mapa de sucesos en Folium
+
+NUBE DE PALABRAS
+- Nube de palabras por medio, seleccionar medios principales? 
+
+IDEA DE ESTADISTICA
+Teorema de Bayes con noticias de diferentes categorías.
