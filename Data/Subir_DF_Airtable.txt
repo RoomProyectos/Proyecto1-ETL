@@ -1,0 +1,4 @@
+
+- Crear una tabla del df obtenido con Airtable.
+
+- Verificar datos en Airtable.
